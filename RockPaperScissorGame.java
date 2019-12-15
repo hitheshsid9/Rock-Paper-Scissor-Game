@@ -1,4 +1,4 @@
-package io.javabrains;
+package com.games.session1;
 
 import java.util.ArrayList;
 import java.util.List;
